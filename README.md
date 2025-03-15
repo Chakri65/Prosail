@@ -1,5 +1,5 @@
-# Prospect
-Crop nitrogen monitoring
+# 🍃 🍂 Prospect 🍁 🌿 🌱
+**Crop nitrogen monitoring**
 
 **Aim**
 To simulate the leaf optical properties (reflectance and transmittance) across the visible to shortwave infrared (400–2500 nm) spectral region.
